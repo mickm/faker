@@ -6,9 +6,9 @@ module Faker
       # 
       def title
         prefixes = [
-          '','','','','','','','','','','','','','','','','','','','',''
-          'A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A'
-          'The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The'
+          '','','','','','','','','','','','','','','','','','','','','',
+          'A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A',
+          'The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The',
           'One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
         
         nouns = [
