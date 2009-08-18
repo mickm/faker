@@ -73,7 +73,7 @@ module Faker
           "Silken","Rough","Frozen","Wild", 
           "Trembling","Fallen","Ragged","Broken", 
           "Cracked","Splintered","Slithering","Silky", 
-          "Captured","Stolen","Magnificent"
+          "Captured","Stolen","Magnificent",
           "Green","Red","Blue", 
           "Azure","Rising","Falling","Elemental", 
           "Bound","Prized","Obsessed","Unwilling", 
