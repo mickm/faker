@@ -5,7 +5,11 @@ module Faker
       # need a realistic-sounding book or project title?  use this!
       # 
       def title
-        prefixes = ['A','The','One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten','']
+        prefixes = [
+          '','','','','','','','','','','','','','','','','','','','',''
+          'A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A','A'
+          'The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The','The'
+          'One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
         
         nouns = [
           "Dream","Dreamer","Dreams","Waves", 
