@@ -98,7 +98,7 @@ module Faker
         chosen_nouns = []
         rand(3).times { chosen_nouns << nouns.rand }
         
-        [ prefixes.rand, adjectives.rand, chosen_nouns.join(' ') ].join(' ')
+        [ prefixes.rand, adjectives.rand, chosen_nouns.join(' ') ].join(' ').squish
       end
       
     end
